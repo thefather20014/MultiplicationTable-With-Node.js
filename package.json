@@ -1,0 +1,17 @@
+{
+  "name": "02-fundamentos",
+  "version": "1.0.0",
+  "description": "Esta es una app de linea de comando",
+  "main": "Require.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos Aracena",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "color": "^3.1.0",
+    "yargs": "^13.2.2"
+  },
+  "devDependencies": {}
+}
